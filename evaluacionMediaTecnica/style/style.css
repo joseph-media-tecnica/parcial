@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    background-color: coral;
+   
+}
+
+.hola {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: rgb(228, 58, 24);
+}
+ 
+#titulo{
+    position:fixed;
+    top:0;
+    background-color: rgb(199, 60, 60);
+    width: 1500px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+
+}
+
+.container {
+    background-color: white;
+    width: 1800px;
+    padding: 120px 150px;
+}
+
+.fin {
+    background-color: black;
+}
+
+.img2 {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+}
+
+#section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#section2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.searmo{
+text-align: center;
+    
+}
+
+
